@@ -1,0 +1,27 @@
+.heading {
+    /* font-size: 50px;
+    color: crimson;
+    font-weight: normal; */
+    box-sizing: border-box;
+    background-color: #fff;
+    background: #000;
+    text-transform: uppercase;
+    text-align: center;
+    text-align: left;
+    position: relative;
+    position: absolute;
+    position: fixed;
+
+    float: left;
+    float: right;
+    font-size: 30px;
+    
+    width: 30px;
+    height: 30px;
+
+    line-height: 30px;
+
+    border-radius: 50%;
+
+    overflow: hidden;
+}
